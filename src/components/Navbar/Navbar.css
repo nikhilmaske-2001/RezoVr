@@ -19,7 +19,7 @@
 
 .n-right {
   display: flex;
-  flex: 1;
+  flex: 1.1;
   align-items: center;
   justify-content: center;
   font-weight: 400;
@@ -34,6 +34,7 @@
   display: flex;
   gap: 2rem;
   margin-right: 4rem;
+  color: #09194f;
 }
 
 .n-list > ul > li:hover {
@@ -47,7 +48,7 @@
   color: white;
   font-size: 16px;
   padding: 11px 26px 11px 26px;
-  background-color: darkblue;
+  background-color: #09194f;
 }
 
 .button:hover {

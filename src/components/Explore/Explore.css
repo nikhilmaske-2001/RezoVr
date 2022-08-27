@@ -1,0 +1,62 @@
+.explore {
+  background-color: white;
+  padding: 0 3rem 0 3rem;
+  display: flex;
+  flex-direction: column;
+  height: 120vh;
+  margin-bottom: 8rem;
+  margin-top: 9rem;
+  margin-bottom: 13rem;
+}
+
+.upper {
+  font-weight: 700;
+  font-size: xx-large;
+  background-color: white;
+
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+
+  color: #09194f;
+}
+
+p {
+  background-color: white;
+}
+
+.explore-button {
+  border-radius: 20px;
+  border: none;
+  width: 150px;
+  color: white;
+  font-size: 16px;
+  padding: 11px 26px 11px 26px;
+  background-color: #09194f;
+}
+
+.explore-button:hover {
+  background-color: white;
+  cursor: pointer;
+  color: darkblue;
+  border: 1px solid darkblue;
+}
+
+.middle {
+  display: flex;
+  flex-direction: column;
+
+  background-color: white;
+
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.lower {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  overflow: hidden;
+  max-width: 100%;
+}
