@@ -1,0 +1,64 @@
+.contact-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  height: 100vh;
+}
+
+.left-part {
+  background-color: white;
+  padding-left: 130px;
+  padding-top: 100px;
+}
+
+.left-part h1 {
+  background-color: inherit;
+  font-weight: 500;
+  color: #2c475c;
+}
+
+.left-part p {
+  padding-right: 160px;
+  color: #2c475c;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.right-part {
+  background-color: white;
+  padding-top: 60px;
+  margin-left: -20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+label {
+  color: orange;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  border-radius: 20px;
+  border: none;
+  width: 100px;
+  color: white;
+  font-size: 16px;
+  padding: 11px 26px 11px 26px;
+  background-color: #09194f;
+}
+.submit-btn:hover {
+  background-color: white;
+  cursor: pointer;
+  color: darkblue;
+  border: 1px solid darkblue;
+}

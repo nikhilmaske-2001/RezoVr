@@ -1,4 +1,5 @@
 import './App.css';
+import Contact from './components/Contact/Contact';
 import Explore from './components/Explore/Explore';
 import Home from './components/Home/Home';
 import Navbar from './components/Navbar/Navbar';
@@ -11,6 +12,7 @@ function App() {
       <Home />
       <Explore />
       <Rezoversity />
+      <Contact />
     </div>
   );
 }
