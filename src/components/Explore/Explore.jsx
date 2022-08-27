@@ -4,7 +4,7 @@ import explore from "../../images/explore.PNG";
 
 function Explore() {
   return (
-    <div className="explore">
+    <div className="explore" id="Explore">
       <div className="upper">
         <p>
           Choose the best educational <br></br>

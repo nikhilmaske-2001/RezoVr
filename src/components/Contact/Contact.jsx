@@ -4,7 +4,7 @@ import contact from "../../images/contact.PNG";
 
 function Contact() {
   return (
-    <div className="contact-page">
+    <div className="contact-page" id="Contact">
       <div className="left-part">
         <h1>Request a Callback</h1>
         <p>

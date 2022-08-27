@@ -6,7 +6,7 @@ import bottom from "../../images/bottom.PNG";
 
 function Rezoversity() {
   return (
-    <div className="rezoversity">
+    <div className="rezoversity" id="Rezoversity">
       <div className="r-top">
         <img className="r-top-image" src={top} alt={top} />
       </div>
