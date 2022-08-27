@@ -4,9 +4,9 @@
   display: flex;
   flex-direction: column;
   height: 120vh;
-  margin-bottom: 8rem;
   margin-top: 9rem;
-  margin-bottom: 13rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .upper {
